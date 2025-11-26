@@ -1,0 +1,47 @@
+PROMPTS PARA GERAÇÃO DE IMAGENS - LANDING PAGE MANICURE
+================================================================================
+
+Arquivo: slide1.jpg
+Prompt: Beautiful manicured nails with pink and rose nail art, elegant female hands, professional photography, soft pink background, high quality, beauty salon style
+--------------------------------------------------------------------------------
+
+Arquivo: slide2.jpg
+Prompt: Modern French manicure in pink tones, elegant hands, beauty salon style, professional photo, clean white tips with pink base
+--------------------------------------------------------------------------------
+
+Arquivo: slide3.jpg
+Prompt: Floral nail art design in pink and rose colors, delicate flowers painted on nails, elegant hands, beauty photography, artistic design
+--------------------------------------------------------------------------------
+
+Arquivo: slide4.jpg
+Prompt: Gel nail polish in bright pink, glossy finish, elegant hands, professional manicure, beauty salon, shiny and perfect
+--------------------------------------------------------------------------------
+
+Arquivo: slide5.jpg
+Prompt: Artistic nail art with glitter and pink details, creative design, elegant hands, professional photography, sparkly and glamorous
+--------------------------------------------------------------------------------
+
+Arquivo: slide6.jpg
+Prompt: Geometric nail art patterns in pink tones, modern design, elegant hands, beauty photography, contemporary style
+--------------------------------------------------------------------------------
+
+Arquivo: servicos.jpg
+Prompt: Modern nail salon interior, pink and elegant decor, manicure station with tools, professional beauty salon, cozy atmosphere, clean and organized
+--------------------------------------------------------------------------------
+
+Arquivo: tecnicas.jpg
+Prompt: Close-up of hands receiving manicure treatment, professional nail technician at work, pink tones, detailed view of nail care process
+--------------------------------------------------------------------------------
+
+Arquivo: produtos.jpg
+Prompt: Organized manicure products on table, nail polishes in pink shades, brushes, tools, pink color scheme, professional setup, beauty products
+--------------------------------------------------------------------------------
+
+Arquivo: ambiente.jpg
+Prompt: Cozy nail salon interior, pink and elegant atmosphere, comfortable seating, professional beauty space, welcoming environment
+--------------------------------------------------------------------------------
+
+Arquivo: agendamento.jpg
+Prompt: Hands holding smartphone with WhatsApp open, beautifully manicured pink nails, modern technology, elegant and professional
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio de Serviços - Landing Pages</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Dancing+Script:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 60px;
+      color: white;
+    }
+
+    header h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 4em;
+      margin-bottom: 10px;
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    header p {
+      font-size: 1.3em;
+      opacity: 0.9;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+
+    .service-card {
+      background: white;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .service-card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    .service-icon {
+      font-size: 4em;
+      text-align: center;
+      padding: 30px 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .service-card.manicure .service-icon {
+      background: linear-gradient(135deg, #ec4899 0%, #db2777 100%);
+    }
+
+    .service-card.estetica .service-icon {
+      background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    }
+
+    .service-card.dentista .service-icon {
+      background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    }
+
+    .service-card.manicure2 .service-icon {
+      background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    }
+
+    .service-content {
+      padding: 30px;
+    }
+
+    .service-content h2 {
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      color: #333;
+    }
+
+    .service-content p {
+      color: #666;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .service-link {
+      display: inline-block;
+      padding: 12px 30px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      text-decoration: none;
+      border-radius: 25px;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+
+    .service-card.manicure .service-link {
+      background: linear-gradient(135deg, #ec4899 0%, #db2777 100%);
+    }
+
+    .service-card.estetica .service-link {
+      background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+    }
+
+    .service-card.dentista .service-link {
+      background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    }
+
+    .service-card.manicure2 .service-link {
+      background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    }
+
+    .service-link:hover {
+      transform: scale(1.05);
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      color: white;
+      opacity: 0.8;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2.5em;
+      }
+
+      .services-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>✨ Portfólio de Serviços</h1>
+      <p>Landing Pages Profissionais para Seu Negócio</p>
+    </header>
+
+    <div class="services-grid">
+      <a href="Manicure/index.html" class="service-card manicure">
+        <div class="service-icon">💅</div>
+        <div class="service-content">
+          <h2>Manicure</h2>
+          <p>Landing page elegante em tons de rosa para salão de manicure. Design moderno com slider de imagens e integração com WhatsApp.</p>
+          <span class="service-link">Ver Landing Page →</span>
+        </div>
+      </a>
+
+      <a href="estetica/index.html" class="service-card estetica">
+        <div class="service-icon">✨</div>
+        <div class="service-content">
+          <h2>Estética</h2>
+          <p>Página profissional para clínica de estética. Tema dourado e elegante, destacando tratamentos faciais e corporais.</p>
+          <span class="service-link">Ver Landing Page →</span>
+        </div>
+      </a>
+
+      <a href="dentista/index.html" class="service-card dentista">
+        <div class="service-icon">🦷</div>
+        <div class="service-content">
+          <h2>Dentista</h2>
+          <p>Landing page para consultório odontológico. Design limpo em tons de azul, transmitindo confiança e profissionalismo.</p>
+          <span class="service-link">Ver Landing Page →</span>
+        </div>
+      </a>
+
+      <a href="manicure2/index.html" class="service-card manicure2">
+        <div class="service-icon">💅</div>
+        <div class="service-content">
+          <h2>Manicure 2</h2>
+          <p>Segunda versão da landing page de manicure com tema roxo. Design alternativo para diferentes preferências visuais.</p>
+          <span class="service-link">Ver Landing Page →</span>
+        </div>
+      </a>
+    </div>
+
+    <footer>
+      <p>Desenvolvido com ❤️ - Portfólio de Landing Pages</p>
+    </footer>
+  </div>
+</body>
+</html>
+
