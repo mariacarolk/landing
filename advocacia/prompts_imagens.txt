@@ -1,0 +1,38 @@
+PROMPTS PARA GERAÇÃO DE IMAGENS - LANDING PAGE ADVOCACIA
+================================================================================
+
+Arquivo: slide1.jpg
+Prompt: Professional law office interior, elegant modern design, dark wood furniture, legal books on shelves, sophisticated lighting, serious and trustworthy atmosphere, professional photography, high quality, business environment
+
+--------------------------------------------------------------------------------
+
+Arquivo: slide2.jpg
+Prompt: Elegant legal office environment, lawyer's desk with documents and legal papers, professional setting, dark sophisticated tones, modern office furniture, professional photography, serious business atmosphere, high quality
+
+--------------------------------------------------------------------------------
+
+Arquivo: servicos.jpg
+Prompt: Professional law office reception area, modern elegant design, legal consultation room, professional environment, dark sophisticated colors, business setting, professional photography, trustworthy atmosphere
+
+--------------------------------------------------------------------------------
+
+Arquivo: tecnicas.jpg
+Prompt: Close-up of legal documents and contracts on desk, professional lawyer working, hands writing on legal papers, elegant office setting, professional photography, serious and competent atmosphere
+
+--------------------------------------------------------------------------------
+
+Arquivo: produtos.jpg
+Prompt: Organized legal documents, law books, contracts, and legal materials arranged on desk, professional setup, elegant office environment, dark sophisticated tones, professional photography
+
+--------------------------------------------------------------------------------
+
+Arquivo: ambiente.jpg
+Prompt: Cozy professional law office interior, elegant meeting room, comfortable seating, professional business space, dark sophisticated atmosphere, welcoming yet serious environment, professional photography
+
+--------------------------------------------------------------------------------
+
+Arquivo: agendamento.jpg
+Prompt: Hands holding smartphone with WhatsApp open, professional office background visible, elegant legal environment, modern technology, professional and trustworthy setting, high quality photography
+
+--------------------------------------------------------------------------------
+
